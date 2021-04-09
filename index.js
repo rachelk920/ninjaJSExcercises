@@ -9,6 +9,10 @@ Best Practice
 As you write code, you should regularly add comments to clarify the function of parts of your code. Good commenting can help communicate the intent of your code—both for others and for your future self. */
 
 // Try creating one of each type of comment.
+//single line comment
+/*
+here is a multi-line comment
+*/
 
 
 
@@ -30,7 +34,7 @@ As you write code, you should regularly add comments to clarify the function of 
 
 // Use the var keyword to create a variable called myName.
 
-
+var myName;
 
 
 // 3 Basic JavaScript: Storing Values with the Assignment Operator
@@ -51,9 +55,10 @@ As you write code, you should regularly add comments to clarify the function of 
 // Setup
 var a;
 
+
 // Only change code below this line
 
-
+a = 7;
 
 
 
