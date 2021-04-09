@@ -66,12 +66,13 @@ a = 7;
 
 // It is common to initialize a variable to an initial value in the same line as it is declared.
 
-// var myVar = 0;
+var myVar = 0;
 
 // Creates a new variable called myVar and assigns it an initial value of 0.
 
 // Define a variable a with var and initialize it to a value of 9.
 
+var a = 9;
 
 
 
@@ -83,9 +84,9 @@ a = 7;
 
 
 // Only change code below this line
-var a;
-var b;
-var c;
+var a = 5;
+var b = 10;
+var c = 'I am a';
 // Only change code above this line
 
 a = a + 1;
@@ -109,14 +110,14 @@ c = c + " String!";
 // Do not create any new variables.
 
 // Variable declarations
-var StUdLyCapVaR;
+var studlyCapVar;
 var properCamelCase;
-var TitleCaseOver;
+var titleCaseOver;
 
 // Variable assignments
-STUDLYCAPVAR = 10;
-PRoperCAmelCAse = "A String";
-tITLEcASEoVER = 9000;
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
 
 // 7 Basic JavaScript: Add Two Numbers with JavaScript
 // Number is a data type in JavaScript which represents numeric data.
@@ -129,7 +130,7 @@ tITLEcASEoVER = 9000;
 
 // myVar = 5 + 10; // assigned 15
 // Change the 0 so that sum will equal 20.
-var sum = 10 + 0;
+var sum = 10 + 10;
 
 // 8 Basic JavaScript: Subtract One Number from Another with JavaScript
 // We can also subtract one number from another.
